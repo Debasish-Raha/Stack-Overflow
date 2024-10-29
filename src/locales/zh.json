@@ -1,0 +1,41 @@
+{
+  "welcome": "欢迎来到网站",
+  "login": "登录",
+  "signup": "报名",
+  "email": "电子邮件",
+  "password": "密码",
+  "ask_question": "问一个问题",
+  "auth": {
+    "enter_email_password": "输入电子邮件和密码"
+  },
+  "language": {
+    "english": "英语",
+    "spanish": "西班牙语",
+    "hindi": "印地语",
+    "portuguese": "葡萄牙语",
+    "chinese": "中国人",
+    "french": "法语"
+  },
+  "navbar": {
+    "about": "关于",
+    "products": "产品",
+    "teams": "对于团队",
+    "searchPlaceholder": "搜索..."
+  },
+  "leftsidebar": {
+    "home": "家",
+    "public": "民众",
+    "questions": "问题",
+    "tags": "标签",
+    "users": "用户"
+  },
+  "askquestion": {
+    "ask_public_question": "提出公开问题",
+    "successful_post": "您已成功发布问题",
+    "enter_all_fields": "请输入所有字段",
+    "login_to_ask": "登录提问"
+  },
+  "homemainbar": {
+    "ask_question": "提问"
+  }
+}

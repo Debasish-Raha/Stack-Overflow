@@ -1,0 +1,42 @@
+{
+    "welcome": "Welcome to the website",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "ask_question": "Ask a Question",
+    "auth": {
+        "enter_email_password": "Enter email and password"
+    },
+    "language": {
+        "english": "English",
+        "spanish": "Spanish",
+        "hindi": "Hindi",
+        "portuguese": "Portuguese",
+        "chinese": "Chinese",
+        "french": "French"
+      },
+      "navbar": {
+        "about": "About",
+        "products": "Products",
+        "teams": "For Teams",
+        "searchPlaceholder": "Search..."
+      },
+      "leftsidebar": {
+        "home": "Home",
+        "public": "PUBLIC",
+        "questions": "Questions",
+        "tags": "Tags",
+        "users": "Users"
+      },
+      "askquestion": {
+        "ask_public_question": "Ask a public Question",
+        "successful_post": "You have successfully posted a question",
+        "enter_all_fields": "Please enter all the fields",
+        "login_to_ask": "Login to ask a question"
+      },
+      "homemainbar": {
+    "ask_question": "Ask Questions"
+  }
+  }
+  

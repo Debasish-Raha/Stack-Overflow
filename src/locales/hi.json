@@ -1,0 +1,41 @@
+{
+  "welcome": "वेबसाइट में आपका स्वागत है",
+  "login": "लॉग इन करें",
+  "signup": "साइन अप करें",
+  "email": "ईमेल",
+  "password": "पासवर्ड",
+  "ask_question": "प्रश्न पूछें",
+  "auth": {
+    "enter_email_password": "ईमेल और पासवर्ड दर्ज करें"
+  },
+  "language": {
+    "english": "अंग्रेज़ी",
+    "spanish": "स्पैनिश",
+    "hindi": "हिंदी",
+    "portuguese": "पुर्तगाली",
+    "chinese": "चीनी",
+    "french": "फ़्रेंच"
+  },
+  "navbar": {
+    "about": "के बारे में",
+    "products": "उत्पादों",
+    "teams": "टीमों के लिए",
+    "searchPlaceholder": "खोज..."
+  },
+  "leftsidebar": {
+    "home": "घर",
+    "public": "जनता",
+    "questions": "प्रश्न",
+    "tags": "टैग",
+    "users": "उपयोगकर्ताओं"
+  },
+  "askquestion": {
+    "ask_public_question": "एक सार्वजनिक प्रश्न पूछें",
+    "successful_post": "आपने सफलतापूर्वक प्रश्न पोस्ट कर दिया है",
+    "enter_all_fields": "कृपया सभी फ़ील्ड दर्ज करें",
+    "login_to_ask": "प्रश्न पूछने के लिए लॉगिन करें"
+  },
+  "homemainbar": {
+    "ask_question": "प्रश्न पूछें"
+  }
+}
