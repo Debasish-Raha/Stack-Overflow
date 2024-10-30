@@ -1,0 +1,41 @@
+{
+  "welcome": "Bem-vindo ao site",
+  "login": "Conecte-se",
+  "signup": "Inscrever-se",
+  "email": "E-mail",
+  "password": "Senha",
+  "ask_question": "Faça uma pergunta",
+  "auth": {
+    "enter_email_password": "Digite e-mail e senha"
+  },
+  "language": {
+    "english": "Inglês",
+    "spanish": "Espanhol",
+    "hindi": "hindi",
+    "portuguese": "Português",
+    "chinese": "chinês",
+    "french": "Francês"
+  },
+  "navbar": {
+    "about": "Sobre",
+    "products": "Produtos",
+    "teams": "Para equipes",
+    "searchPlaceholder": "Procurar..."
+  },
+  "leftsidebar": {
+    "home": "Lar",
+    "public": "PÚBLICO",
+    "questions": "Questões",
+    "tags": "Etiquetas",
+    "users": "Usuários"
+  },
+  "askquestion": {
+    "ask_public_question": "Faça uma pergunta pública",
+    "successful_post": "Você postou uma pergunta com sucesso",
+    "enter_all_fields": "Por favor insira todos os campos",
+    "login_to_ask": "Faça login para fazer uma pergunta"
+  },
+  "homemainbar": {
+    "ask_question": "Fazer perguntas"
+  }
+}
